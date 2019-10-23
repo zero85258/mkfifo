@@ -1,4 +1,4 @@
-# mkfifo
+# mkfifo 一個他媽bash就可以玩的job queue
 
 ```sh
 # 先製造一個 broker
