@@ -11,3 +11,11 @@ sh consumer.sh &
 sh producer.sh
 ```
 
+### 管理
+```sh
+# 使用
+jobs 
+bg %1
+fg %1
+kill %1
+```
