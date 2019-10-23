@@ -1,4 +1,4 @@
 while true ;do
-  #echo "Hi"
+  # 不斷消費broker
   cat < broker
 done
