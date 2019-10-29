@@ -14,8 +14,8 @@ sh producer.sh
 ### 管理
 ```sh
 # 使用
-jobs 
-bg %1
-fg %1
-kill %1
+jobs  #看
+bg %1  #背後運行
+fg %1   #拿到前台
+kill %1   #讓他死
 ```
